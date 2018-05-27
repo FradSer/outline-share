@@ -1,6 +1,6 @@
 # Outline Share
 
-Outline Share is used to share [Outline](https://getoutline.org) servers **free**.
+[Outline Share](https://outline.fradser.me) is used to share [Outline](https://getoutline.org) servers **free**.
 
 ## To-do
 
