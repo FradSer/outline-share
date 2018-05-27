@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Outline Share
 
-You can use the [editor on GitHub](https://github.com/FradSer/outline.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Outline Share is used to share Outline servers **free**. Operated by [FradSer](https://twitter.com/fradser) on GitHub Pages, 
+If you also want to share your Outline server, please [PR](https://github.com/FradSer/outline-share/pulls), or [email me](fradser@gmail.com).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Outline Servers
 
-### Markdown
+### #1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Host by **anonymous**.
 
-```markdown
-Syntax highlighted code block
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUmkyVW1NZTY2VE0=@35.190.224.50:22080/?outline=1`
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Notice
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FradSer/outline.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**I have nothing to do with any of the Outline servers provided by this site.**
