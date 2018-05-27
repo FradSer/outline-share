@@ -1,6 +1,6 @@
 ## Welcome to Outline Share
 
-Outline Share is used to share Outline servers **free**, Operated by [FradSer](https://twitter.com/fradser) on GitHub Pages.
+Outline Share is used to share Outline servers **free**.
 
 If you also want to share your Outline server, please [PR](https://github.com/FradSer/outline-share/pulls) .
 
