@@ -2,7 +2,7 @@
 
 Outline Share is used to share Outline servers **free**, Operated by [FradSer](https://twitter.com/fradser) on GitHub Pages.
 
-If you also want to share your Outline server, please [PR](https://github.com/FradSer/outline-share/pulls), or <email me>(fradser@gmail.com).
+If you also want to share your Outline server, please [PR](https://github.com/FradSer/outline-share/pulls), or [email me]<fradser@gmail.com>.
 
 ## Outline Servers
 
@@ -17,4 +17,4 @@ Host by **anonymous**.
 
 ## Notice
 
-**I have nothing to do with any of the Outline servers provided by this site.**
+**I am not responsible for any Outline servers provided by this site.**
