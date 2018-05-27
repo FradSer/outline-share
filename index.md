@@ -6,7 +6,7 @@ If you also want to share your Outline server, please [PR](https://github.com/Fr
 
 ## Outline Servers
 
-### #1
+### # 1
 
 Host by **anonymous**.
 
