@@ -17,3 +17,9 @@ Host by **anonymous**.
 ## Notice
 
 **I am not responsible for any Outline servers provided by this site.**
+
+------
+
+> Just living is not enough... one must have sunshine, freedom, and a little flower.
+>
+> -- <cite>[Hans Christian Andersen](http://www.wikiwand.com/en/Hans_Christian_Andersen)</cite>
