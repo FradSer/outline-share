@@ -8,7 +8,7 @@ If you also want to share your Outline server, please [PR](https://github.com/Fr
 
 ### # 2
 
-Host by **anonymous**.
+Host by **[anonymous](http://www.wikiwand.com/en/Anonymous_(group))**.
 
 🇸🇬 ![](http://img.shields.io/badge/status-working-brightgreen.svg)
 
@@ -16,7 +16,7 @@ Host by **anonymous**.
 
 ### # 1
 
-Host by **anonymous**.
+Host by **[anonymous](http://www.wikiwand.com/en/Anonymous_(group))**.
 
 🇯🇵 ![](http://img.shields.io/badge/status-working-brightgreen.svg)
 
