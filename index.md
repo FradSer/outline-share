@@ -22,6 +22,14 @@ Host by **[anonymous](http://www.wikiwand.com/en/Anonymous_(group))**.
 
 [`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUmkyVW1NZTY2VE0=@35.200.60.103:22080/?outline=1`](ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUmkyVW1NZTY2VE0=@35.200.60.103:22080/?outline=1)
 
+## How to
+
+1. Download Outline for [iOS](https://itunes.apple.com/us/app/outline-app/id1356177741) / [macOS](https://itunes.apple.com/us/app/outline-app/id1356178125) / [Chrome OS](https://play.google.com/store/apps/details?id=org.outline.android.client) / [Android](https://play.google.com/store/apps/details?id=org.outline.android.client) / [Windows](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/Outline-Client.exe). 
+2. Click links above begin like `ss://...`.
+3. Add server & connect.
+4. Enjoy🍻
+
+
 ## Notice
 
 **I am not responsible for any Outline servers provided by this site.**
