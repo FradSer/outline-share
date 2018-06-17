@@ -6,13 +6,21 @@ If you also want to share your Outline server, please [PR](https://github.com/Fr
 
 ## Outline Servers
 
-### # 3
+### #4
 
 Host by **[anonymous](http://www.wikiwand.com/en/Anonymous_(group))**.
 
 🇸🇬 ![](http://img.shields.io/badge/status-working-brightgreen.svg)
 
-[`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRWFFblFSWTA0cXE=@35.198.197.53:56511/?outline=1`](ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRWFFblFSWTA0cXE=@35.198.197.53:56511/?outline=1)
+[`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRWFFblFSWTA0cXE=@35.198.253.211:56511/?outline=1`](ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRWFFblFSWTA0cXE=@35.198.253.211:56511/?outline=1)
+
+### <del># 3</del>
+
+<del>Host by **[anonymous](http://www.wikiwand.com/en/Anonymous_(group))**.</del>
+
+<del>🇸🇬</del> ![](http://img.shields.io/badge/status-stopped-brightred.svg)
+
+<del>[`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRWFFblFSWTA0cXE=@35.198.197.53:56511/?outline=1`](ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRWFFblFSWTA0cXE=@35.198.197.53:56511/?outline=1)</del>
 
 ### <del># 2</del>
 
@@ -22,13 +30,13 @@ Host by **[anonymous](http://www.wikiwand.com/en/Anonymous_(group))**.
 
 <del>[`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Q2dSRW5XYUR3Q3g=@35.198.253.211:64815/?outline=1`](ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0Q2dSRW5XYUR3Q3g=@35.198.253.211:64815/?outline=1)</del>
 
-### # 1
+### <del># 1</del>
 
-Host by **[anonymous](http://www.wikiwand.com/en/Anonymous_(group))**.
+<del>Host by **[anonymous](http://www.wikiwand.com/en/Anonymous_(group))**.</del>
 
-🇯🇵 ![](http://img.shields.io/badge/status-working-brightgreen.svg)
+<del>🇯🇵</del> ![](http://img.shields.io/badge/status-stopped-brightred.svg)
 
-[`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUmkyVW1NZTY2VE0=@35.200.60.103:22080/?outline=1`](ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUmkyVW1NZTY2VE0=@35.200.60.103:22080/?outline=1)
+<del>[`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUmkyVW1NZTY2VE0=@35.200.60.103:22080/?outline=1`](ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUmkyVW1NZTY2VE0=@35.200.60.103:22080/?outline=1)</del>
 
 ## Telegram Channel
 
