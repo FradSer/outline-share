@@ -10,7 +10,7 @@ If you also want to share your Outline server, please [PR](https://github.com/Fr
 
 <del>Host by **[anonymous](http://www.wikiwand.com/en/Anonymous_(group))**.</del>
 
-<del>🇸🇬 ![](http://img.shields.io/badge/status-working-brightgreen.svg)</del>
+<del>🇸🇬</del> ![](http://img.shields.io/badge/status-stopped-brightred.svg)
 
 <del>[`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRWFFblFSWTA0cXE=@35.198.253.211:56511/?outline=1`](ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRWFFblFSWTA0cXE=@35.198.253.211:56511/?outline=1)</del>
 
