@@ -6,7 +6,7 @@ If you also want to share your Outline server, please [PR](https://github.com/Fr
 
 ## <i class="fa fa-server"></i> Outline Servers
 
-### <del>#4</del>
+### <del># 4</del>
 
 <del>Host by **[anonymous](http://www.wikiwand.com/en/Anonymous_(group))**.</del>
 
